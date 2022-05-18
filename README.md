@@ -1,4 +1,4 @@
-# MKS VI Probe Library for LabVIEW
+# MKS (ENI) VI Probe Library for LabVIEW
 LabVIEW instrument driver for MKS (ENI) V/I Probe.
 
 ## Requirements
