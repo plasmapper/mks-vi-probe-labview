@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-05-18 20:19:51" Creator="Researcher" Comments="" ID="f7a883f3856aadaff97728fac88f5ee5">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-07 15:12:08" Creator="Researcher" Comments="" ID="80852275990bb08185e6bdfdd3218327">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_MKS_VI_Probe</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -41,7 +41,7 @@ Features
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/mks-vi-probe-labview</URL>
-      <Release_Notes/>
+      <Release_Notes>Initial release.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -302,7 +302,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0A98A77A3065788CF8A1E63957391710</GUID>
+      <GUID>B77EC72B2C0443AD5A916038B220AE5A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -449,7 +449,7 @@ Features
         <Path>Public\Configure\Configure Baud Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8A6987491A4D688FF296D1FF160A8FE0</GUID>
+      <GUID>96C8C78F048C34E4D0455FCC0E8C5D11</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -498,7 +498,7 @@ Features
         <Path>Public\Action-Status\Stop Frequency Scan.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A7CAFDC4845C3C6493CE6F492470B22E</GUID>
+      <GUID>5AA3C0DCE2F41BA6FDCDD75B3AC3F9C9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -673,7 +673,7 @@ Features
         <Path>Public\Data\Read RMS Current.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AC875777146EA3CCBEE89AE7B9C89F48</GUID>
+      <GUID>9418D14E6E830D949AD4B06D74DFE870</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -736,7 +736,7 @@ Features
         <Path>Public\Utility\Save Parameters to EEPROM.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5A505C6FAB20AF6BAD066FB3E7678380</GUID>
+      <GUID>50B7B002A0EB26A1AEA3C2477CBD1240</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
