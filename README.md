@@ -4,6 +4,9 @@ LabVIEW instrument driver for MKS (ENI) V/I Probe.
 ## Requirements
 LabVIEW 2015 and higher.
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_mks_vi_probe/)
+
 ## Features
 1. Read/configure frequency and acquisition time.
 2. Configure averaging and buffers.
