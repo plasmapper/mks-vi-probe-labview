@@ -1,5 +1,5 @@
-# MKS (ENI) VI Probe Library for LabVIEW
-LabVIEW instrument driver for MKS (ENI) V/I Probe.
+# LabVIEW Instrument Driver for MKS (ENI) V/I Probe
+Tested on MKS (ENI) V/I Probe.
 
 ## Requirements
 LabVIEW 2015 and higher.
