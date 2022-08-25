@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-07 15:12:08" Creator="Researcher" Comments="" ID="80852275990bb08185e6bdfdd3218327">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-08-25 14:06:11" Creator="Researcher" Comments="" ID="51a0630c00e78efe3e3613548c11990d">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_MKS_VI_Probe</Package_File_Name>
     <Library_Version>1.0.0.3</Library_Version>
@@ -29,6 +29,8 @@
     <Description>
       <One_Line_Description_Summary>LabVIEW instrument driver for MKS (ENI) V/I Probe</One_Line_Description_Summary>
       <Description>LabVIEW instrument driver for MKS (ENI) V/I Probe.
+
+Tested on MKS (ENI) V/I Probe.
 
 Features
 1. Read/configure frequency and acquisition time.
@@ -302,7 +304,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B77EC72B2C0443AD5A916038B220AE5A</GUID>
+      <GUID>4B82C497EDA66AEC013EEAEC0B68B690</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -449,7 +451,7 @@ Features
         <Path>Public\Configure\Configure Baud Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>96C8C78F048C34E4D0455FCC0E8C5D11</GUID>
+      <GUID>1402772935A2302590A397DD3D666A17</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -498,7 +500,7 @@ Features
         <Path>Public\Action-Status\Stop Frequency Scan.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5AA3C0DCE2F41BA6FDCDD75B3AC3F9C9</GUID>
+      <GUID>10278AB6306FA1F4DB2A196A729CF172</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -673,7 +675,7 @@ Features
         <Path>Public\Data\Read RMS Current.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9418D14E6E830D949AD4B06D74DFE870</GUID>
+      <GUID>F8FA7233B3FB72F8B8646A550135C154</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -736,7 +738,7 @@ Features
         <Path>Public\Utility\Save Parameters to EEPROM.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>50B7B002A0EB26A1AEA3C2477CBD1240</GUID>
+      <GUID>3AE02DF67B0F920F1B2D719AEAAA8072</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
